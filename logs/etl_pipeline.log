@@ -1,0 +1,14 @@
+2024-09-25 19:42:48,569 - INFO - Data hämtad från API för symbolen IBM
+2024-09-25 19:42:48,585 - ERROR - Fel vid datatransformation: module 'pandas.compat' has no attribute 'StringIO'
+2024-09-25 19:42:48,585 - ERROR - ETL-processen misslyckades: module 'pandas.compat' has no attribute 'StringIO'
+2024-09-25 19:49:04,528 - INFO - Data hämtad från API för symbolen IBM
+2024-09-25 19:49:04,528 - ERROR - Fel vid datatransformation: module 'pandas.compat' has no attribute 'StringIO'
+2024-09-25 19:49:04,528 - ERROR - ETL-processen misslyckades: module 'pandas.compat' has no attribute 'StringIO'
+2024-09-25 19:51:16,354 - INFO - Data hämtad från API för symbolen IBM
+2024-09-25 19:51:16,354 - INFO - Data har bearbetats.
+2024-09-25 19:51:16,370 - INFO - Bearbetad data sparad till data/processed_data.csv
+2024-09-25 19:51:16,370 - INFO - ETL-processen slutförd.
+2024-09-25 20:42:36,356 - INFO - Data hämtad från API för symbolen IBM
+2024-09-25 20:42:36,364 - INFO - Data har bearbetats.
+2024-09-25 20:42:36,366 - INFO - Bearbetad data sparad till data/processed_data.csv
+2024-09-25 20:42:36,366 - INFO - ETL-processen slutförd.

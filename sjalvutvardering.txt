@@ -1,0 +1,9 @@
+1. Utmaningar du haft under arbetet samt hur du hanterat dem
+En av de utmaningar jag stötte på under arbetet var att implementera och automatisera pipelinen samt säkerställa att den fungerade korrekt.
+
+2. Vilket betyg du anser att du skall ha och varför
+Jag anser att jag förtjänar betyget Godkänd. Jag har automatiserat pipelinen, hanterat fel och loggat alla steg. Datan bearbetas och sparas som förväntat. Alla grundkrav för uppgiften är uppfyllda.
+
+3. Något du vill lyfta fram till Linus och Antonio?
+Jag uppskattade handledningen och tydliga instruktioner under projektet. Jag skulle gärna se fler exempel på hur man arbetar med större datamängder
+och databasintegrationer, eftersom detta är ett område jag vill utveckla mig inom.
