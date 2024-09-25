@@ -4,6 +4,7 @@
 Detta projekt är en ETL-pipeline som hämtar finansiell data från Alpha Vantage API, bearbetar data för att beräkna prisförändringar, och lagrar den bearbetade datan i en CSV-fil. Projektet är automatiserat med Windows Task Scheduler och inkluderar felhantering samt loggning.
 
 ## Projektstruktur
+```plaintext
 kunskapskontroll_2/
 │
 ├── data/
