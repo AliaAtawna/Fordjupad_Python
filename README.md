@@ -25,6 +25,7 @@ kunskapskontroll_2/
 ├── requirements.txt                # Lista med beroenden (pandas, requests, etc.)
 ├── sjalvutvardering.txt            # Självutvärdering av projektet
 └── README.md                       # Projektbeskrivning och struktur
+```
 
 ## Hur man kör projektet
 1. **Setup**: Kör `setup.bat` för att installera alla beroenden och aktivera den virtuella miljön.
